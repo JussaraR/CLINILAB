@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-class pessoa {
+class Pessoa {
 protected string nome;
 protected string dataNascimento;
 protected string telefone;
@@ -57,7 +57,7 @@ public double Cpf {
 
 
 
-
+}
 
 
 
