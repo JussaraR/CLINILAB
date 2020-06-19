@@ -1,6 +1,7 @@
 - Cadastro Paciente Particular
-Nome: Jussara
-Endereco: rua santo 
-Telefone: 232323
-Data de nascimento: 03/08/1998
-CPF: 133
+Nome: ju
+Endereco: rua
+Telefone: 333
+Data de nascimento: 222
+CPF: 1222
+ConvenioBradesco
