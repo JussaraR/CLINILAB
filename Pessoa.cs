@@ -1,63 +1,74 @@
+ 
 using System;
+
 using System.IO;
 
 class Pessoa {
-protected string nome;
-protected string dataNascimento;
-protected string telefone;
-protected string email;
-protected double cpf;
+  protected string nome;
+  protected string endereco;
+  protected string telefone;
+  protected string dataNascimento;
+  protected string cpf;
 
-public string Nome{
-  get {
-  return nome;
+
+  public string Nome{
+    get{
+      return nome;
+    }
+    set{
+      nome = value;
+    }
   }
-  set {
-    nome = value;
+
+  public string Endereco{
+    get{
+      return endereco;
+    }
+    set{
+      endereco= value;
+    }
   }
+
+  public string Telefone{
+    get{
+      return telefone;
+    }
+    set{
+    telefone = value;
+    }
+  }
+
+  public string DataNascimento{
+    get{
+      return dataNascimento;
+    }
+    set{
+      dataNascimento = value;
+    }
+  }
+
+  public string  Cpf{
+    get{
+      return cpf;
+    }
+    set{
+      cpf= value;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
 
 } 
-
-public string DataNascimento{
-get {
-    return dataNascimento;
-  }
-  set {
-    nome = value; 
-  }
-}
   
-
-public string Telefone {
-  get {
-    return telefone;
-    }
-  set {
-    nome = value ;
-    }
-}
-
-public string Email {
-  get{
-    return email;
-  }
-  set {
-    email = value;
-  }
-}
-
-public double Cpf {
-  get{ 
-    return cpf;
-  }
-  set {
-    cpf = value; 
-  }
-}
-
-
-
-}
 
 
 
