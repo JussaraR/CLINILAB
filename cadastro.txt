@@ -1,7 +1,6 @@
 - Cadastro Paciente Particular
-Nome: ju
+Nome: Ju
 Endereco: rua
-Telefone: 333
-Data de nascimento: 222
-CPF: 1222
-ConvenioBradesco
+Telefone: 2222
+Data de nascimento: 0308999
+CPF: 1333
